@@ -68,9 +68,12 @@ Met wat geduld en precisie wordt de montage strak en komt de vleermuis straks é
 
 ## 📜 License
 
-This project is released under a **Personal Use License**.  
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
 - ✅ You may view, copy, and use the files for **personal, non-commercial purposes**.  
 - 🚫 Commercial use, redistribution, or resale is **not allowed** without prior written permission.  
 - ⚠️ The files are provided **as-is**, without warranty.  
+
+Full license text: [LICENSE](LICENSE)
 
 For commercial licensing requests, please contact: mail@rene-de-boer.nl (www.rene-de-boer.nl)
