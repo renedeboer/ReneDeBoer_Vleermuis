@@ -1,3 +1,5 @@
+![License: Personal Use](https://img.shields.io/badge/license-Personal--Use-orange.svg)
+
 # 🦇 Bouw je eigen vleermuis!
 
 Deze printplaat in vleermuisvorm laat 20 SMD-LEDs tot leven komen met slechts vijf aansluitingen van een microcontroller.
