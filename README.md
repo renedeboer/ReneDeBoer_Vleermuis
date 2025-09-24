@@ -28,7 +28,7 @@ Op die manier kun je solderen, experimenteren, leren en eigen effecten ontwerpen
 
 ## ⚙️ Hoe werkt het?
 
-<img src="media/schema.png" alt="Schema" style="max-width:50%; float:right; margin:0 0 1em 1em;">
+<img src="media/schema.png" alt="Schema">
 In dit vleermuis-bouwpakket sturen de vijf pinnen van de **ATTINY85** samen 20 LEDs aan, volgens een complex lichtpatroon in de broncode.  
 Hierdoor kunnen de vleugels, ogen en mond afzonderlijk oplichten. 
 
