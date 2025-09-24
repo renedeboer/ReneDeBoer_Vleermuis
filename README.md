@@ -4,6 +4,11 @@
 
 <img src="media/vleermuis1.jpg" alt="Vleermuis" width="400">
 
+[📘 Bouwbeschrijving (PDF)](https://github.com/renedeboer/ReneDeBoer_Vleermuis/raw/main/media/vleermuispakket.pdf)
+[📄 Bouwbeschrijving pagina 1](media/vleermuispakket.jpg)  
+[📄 Bouwbeschrijving pagina 2](media/vleermuispakket2.jpg)
+
+
 Deze printplaat in vleermuisvorm laat 20 SMD-LEDs tot leven komen met slechts vijf aansluitingen van een microcontroller.
 
 Dit pakket bevat een voor-geprogrammeerde **ATTINY85**-microcontroller.  
