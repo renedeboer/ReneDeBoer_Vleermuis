@@ -62,3 +62,15 @@ De THT-componenten plaats je als laatste.
 - Het IC (**ATTINY85**) oriënteer je met de inkeping bij pin 1.  
 
 Met wat geduld en precisie wordt de montage strak en komt de vleermuis straks écht tot leven.  
+
+
+---
+
+## 📜 License
+
+This project is released under a **Personal Use License**.  
+- ✅ You may view, copy, and use the files for **personal, non-commercial purposes**.  
+- 🚫 Commercial use, redistribution, or resale is **not allowed** without prior written permission.  
+- ⚠️ The files are provided **as-is**, without warranty.  
+
+For commercial licensing requests, please contact: mail@rene-de-boer.nl (www.rene-de-boer.nl)
