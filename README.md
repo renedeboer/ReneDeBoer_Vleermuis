@@ -24,6 +24,8 @@ Op die manier kun je solderen, experimenteren, leren en eigen effecten ontwerpen
 - **BT1** Batterijhouder voor CR2032 batterij of equivalent  
 - **Batterij** CR2032, EXP zie verpakking  
 
+<img src="media/vleermuisV1-brd.jpg" alt="vleermuisV1-brd.jpg" style="max-width:50%; float:right; margin:0 0 1em 1em;">
+
 ---
 
 ## ⚙️ Hoe werkt het?
@@ -69,6 +71,10 @@ De THT-componenten plaats je als laatste.
 - Het IC (**ATTINY85**) oriënteer je met de inkeping bij pin 1.  
 
 Met wat geduld en precisie wordt de montage strak en komt de vleermuis straks écht tot leven.  
+
+<img src="media/vleermuisV1.png" alt="vleermuisV1.png" style="max-width:50%; float:right; margin:0 0 1em 1em;">
+
+
 
 
 ---
