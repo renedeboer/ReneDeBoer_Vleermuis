@@ -2,7 +2,7 @@
 
 # 🦇 Bouw je eigen vleermuis!
 
-<img src="media/vleermuis.jpg" alt="Vleermuis" width="400">
+<img src="media/vleermuis1.jpg" alt="Vleermuis" width="400">
 
 Deze printplaat in vleermuisvorm laat 20 SMD-LEDs tot leven komen met slechts vijf aansluitingen van een microcontroller.
 
