@@ -2,7 +2,8 @@
 
 # 🦇 Bouw je eigen vleermuis!
 
-<img src="media/vleermuis.jpg" alt="Vleermuis" style="max-width:50%; float:right; margin:0 0 1em 1em;">
+<img src="media/vleermuis.jpg" alt="Vleermuis" width="400">
+
 Deze printplaat in vleermuisvorm laat 20 SMD-LEDs tot leven komen met slechts vijf aansluitingen van een microcontroller.
 
 Dit pakket bevat een voor-geprogrammeerde **ATTINY85**-microcontroller.  
