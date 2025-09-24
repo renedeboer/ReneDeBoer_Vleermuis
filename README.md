@@ -2,11 +2,13 @@
 
 # 🦇 Bouw je eigen vleermuis!
 
+<img src="media/vleermuis.jpg" alt="Vleermuis" style="max-width:50%; float:right; margin:0 0 1em 1em;">
 Deze printplaat in vleermuisvorm laat 20 SMD-LEDs tot leven komen met slechts vijf aansluitingen van een microcontroller.
 
 Dit pakket bevat een voor-geprogrammeerde **ATTINY85**-microcontroller.  
 De code en schema’s zijn ook beschikbaar via GitHub.  
 Op die manier kun je solderen, experimenteren, leren en eigen effecten ontwerpen.
+
 
 ---
 
@@ -25,6 +27,7 @@ Op die manier kun je solderen, experimenteren, leren en eigen effecten ontwerpen
 
 ## ⚙️ Hoe werkt het?
 
+<img src="media/schema.png" alt="Schema" style="max-width:50%; float:right; margin:0 0 1em 1em;">
 In dit vleermuis-bouwpakket sturen de vijf pinnen van de **ATTINY85** samen 20 LEDs aan, volgens een complex lichtpatroon in de broncode.  
 Hierdoor kunnen de vleugels, ogen en mond afzonderlijk oplichten. 
 
@@ -38,6 +41,7 @@ Hij ontdekte in de jaren 90 dat je op deze manier veel meer LEDs kunt aansturen 
 
 ## 🔧 Montage van de SMD LEDs
 
+<img src="media/ledmontage.png" alt="LED Montage" style="max-width:50%; float:right; margin:0 0 1em 1em;">
 De printplaat is speciaal ontworpen met kleine openingen op de plekken van de LEDs.  
 Tijdens de montage plaats je de LEDs aan de soldeerzijde van de print.  
 
