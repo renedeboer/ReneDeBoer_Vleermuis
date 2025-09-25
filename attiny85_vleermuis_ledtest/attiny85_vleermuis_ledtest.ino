@@ -1,3 +1,12 @@
+/*
+  Project: attiny85_vleermuis_ledtest.ino
+  Versie: 1.0
+  Description: Licht de LEDS 1 voor 1 op voor de ATTINY85 Vleermuis
+
+  Author: @enedeboer
+  Date: 01-09-2025
+*/
+
 int P1 = 0;
 int P2 = 1;
 int P3 = 2;
