@@ -1,3 +1,11 @@
+/*
+  Project: effecten.ino
+  Description: Diverse effecten voor de ATTINY85 Vleermuis
+
+  Author: @rodedio
+  Date: 22-09-2025
+*/
+  
 //////////////////////////////////////////////////
 // Pin-definities
 //////////////////////////////////////////////////
