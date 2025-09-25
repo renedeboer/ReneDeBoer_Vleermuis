@@ -1,5 +1,6 @@
 /*
-  Project: effecten.ino
+  Project: LED_patronen_varianten.ino
+  Versie: 1.0
   Description: Diverse effecten voor de ATTINY85 Vleermuis
 
   Author: @rodedio
