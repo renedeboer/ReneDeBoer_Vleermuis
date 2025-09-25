@@ -95,3 +95,10 @@ This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 
 Full license text: [LICENSE](LICENSE)
 
 For commercial licensing requests, please contact: mail@rene-de-boer.nl (www.rene-de-boer.nl)
+
+## Credits
+
+Met veel dank aan [@rodedio](https://github.com/rodedio)  
+voor het zorgvuldige soldeerwerk aan de prototypes,  
+het meeschrijven en testen van sketches,  
+en het enthousiasme dat dit project vooruit hielp.
