@@ -1,3 +1,12 @@
+/*
+  Project: attiny85_vleermuis.ino
+  Versie: 1.0
+  Description: LED effecten voor de ATTINY85 Vleermuis, standaard meegeleverd script
+
+  Author: @enedeboer
+  Date: 01-09-2025
+*/
+
 // ------------------ Pin Setup ------------------
 int P1 = 0;
 int P2 = 1;
