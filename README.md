@@ -61,7 +61,7 @@ Op de LED is een klein driehoekje zichtbaar: dit symbool markeert de polariteit 
 - Een fijne soldeerboutpunt voldoet hier ook, mits je secuur te werk gaat.  
 
 ### 💡 Tips voor een strakke montage
-- Gebruik een pincet met vlakke schop om de LED in positie te houden.  
+- Gebruik een pincet met vlakke bek om de LED in positie te houden.  
 - Haal telkens één LED tegelijk uit de verpakking, zo voorkom je zoekgeraakte onderdelen. Er is 1 reserve SMD LED meegeleverd.  
 - Werk boven een klein schaaltje in plaats van een vlakke tafel: dat voorkomt dat een LED wegschiet.  
 - Een microscoop of loeplamp is een handig hulpmiddel bij het uitlijnen.  
