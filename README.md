@@ -83,7 +83,19 @@ Met wat geduld en precisie wordt de montage strak en komt de vleermuis straks é
 
 ## Zelf een sketch maken en uploaden?
 
-Kijk hier hoe je de ATtiny85 kan [programmeren met Arduino UNO als ISP.md](ATtiny85 programmeren met Arduino UNO als ISP.md)
+Wil je een **losse ATtiny85** gebruiken zonder een compleet ontwikkelboard?  
+Met een simpele **Arduino UNO als ISP-programmer** kun je de ATtiny85 eenvoudig programmeren voor je eigen projecten.
+
+👉 Kijk hier hoe je dat stap-voor-stap doet:  
+[**ATtiny85 programmeren met Arduino UNO als ISP**](ATTiny85_Programmeren_met_UNO.md)
+
+---
+
+💡 **Deel je creaties!**  
+Heb je een leuke sketch gemaakt voor de ATtiny85?  
+Stuur hem naar mij op, dan kunnen we ideeën en voorbeelden delen met andere hobbyisten.
+
+---
 
 ## 📜 License
 
