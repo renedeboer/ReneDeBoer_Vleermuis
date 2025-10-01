@@ -79,10 +79,11 @@ Met wat geduld en precisie wordt de montage strak en komt de vleermuis straks é
 
 <img src="media/vleermuisV1.png" alt="vleermuisV1.png" style="max-width:50%; float:right; margin:0 0 1em 1em;">
 
-
-
-
 ---
+
+## Zelf een sketch maken en uploaden?
+
+Kijk hier hoe je de ATtiny85 kan [programmeren met Arduino UNO als ISP.md](ATtiny85 programmeren met Arduino UNO als ISP.md)
 
 ## 📜 License
 
