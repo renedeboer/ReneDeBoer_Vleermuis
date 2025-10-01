@@ -29,37 +29,6 @@ Deze handleiding beschrijft hoe je een **ATtiny85** kunt programmeren met behulp
 
 ---
 
-## 🖼️ ASCII‑schema breadboard
-
-```
-       ATtiny85 (bovenaan inkeping ▷ pin 1)
-
-          ┌───┬───┐
-   RESET ◁│1      8│▷ VCC  → UNO 5 V
-  (D10)    │       │
-   GND  ←▷│4      5│▷ MOSI → UNO D11
-           │       │
-   SCK  →▷│7      6│▷ MISO → UNO D12
-           └───┴───┘
-             ▲
-             |
-           UNO GND → pin 4 (GND)
-           UNO D13 → pin 7 (SCK)
-           UNO D10 → pin 1 (RESET)
-
-Extra: 10 µF condensator tussen UNO‑RESET en GND
-```
-
----
-
-## 🖼️ SVG‑schema breadboard
-
- 
-
- 
-
----
-
 ## ⚙️ Arduino UNO voorbereiden
 1. Sluit de UNO via USB aan op je computer.  
 2. Open de Arduino IDE.  
