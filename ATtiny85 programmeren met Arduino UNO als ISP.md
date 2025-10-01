@@ -55,29 +55,7 @@ Extra: 10 µF condensator tussen UNO‑RESET en GND
 ## 🖼️ SVG‑schema breadboard
 
  
-<svg width="420" height="220" xmlns="http://www.w3.org/2000/svg">
-  <rect x="160" y="40" width="100" height="140" rx="10" ry="10" fill="#eee" stroke="#333" stroke-width="2"/>
-  <text x="170" y="55" font-size="12" font-family="monospace">ATtiny85</text>
-  
-  <!-- Pins -->
-  <circle cx="160" cy="60" r="4" fill="black"/> <!-- Pin1 -->
-  <text x="120" y="63" font-size="12">RESET (D10)</text>
 
-  <circle cx="160" cy="90" r="4" fill="black"/> <!-- Pin4 -->
-  <text x="120" y="93" font-size="12">GND</text>
-
-  <circle cx="160" cy="120" r="4" fill="black"/> <!-- Pin7 -->
-  <text x="120" y="123" font-size="12">SCK (D13)</text>
-
-  <circle cx="160" cy="150" r="4" fill="black"/> <!-- Pin8 -->
-  <text x="120" y="153" font-size="12">VCC (5V)</text>
-
-  <circle cx="260" cy="90" r="4" fill="black"/> <!-- Pin5 -->
-  <text x="270" y="93" font-size="12">MOSI (D11)</text>
-
-  <circle cx="260" cy="120" r="4" fill="black"/> <!-- Pin6 -->
-  <text x="270" y="123" font-size="12">MISO (D12)</text>
-</svg>
  
 
 ---
