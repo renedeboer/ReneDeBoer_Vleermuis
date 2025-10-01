@@ -115,3 +115,5 @@ Met veel dank aan [@rodedio](https://github.com/rodedio)
 voor het zorgvuldige soldeerwerk aan de prototypes,  
 het meeschrijven en testen van sketches,  
 en het enthousiasme dat dit project vooruit hielp.
+
+© 2025 René de Boer – Handleiding uitsluitend voor hobbygebruik
