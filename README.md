@@ -87,7 +87,7 @@ Wil je een **losse ATtiny85** gebruiken zonder een compleet ontwikkelboard?
 Met een simpele **Arduino UNO als ISP-programmer** kun je de ATtiny85 eenvoudig programmeren voor je eigen projecten.
 
 👉 Kijk hier hoe je dat stap-voor-stap doet:  
-[**ATtiny85 programmeren met Arduino UNO als ISP**](ATTiny85_Programmeren_met_UNO.md)
+[**ATtiny85 programmeren met Arduino UNO als ISP**](ATtiny85_programmeren_met_Arduino_UNO_als_ISP.md)
 
 ---
 
